@@ -1,5 +1,5 @@
 # fossee-osdag-sfd-bmd
-# SFD & BMD Visualization using Xarray (Osdag – FOSSEE Internship)
+# Make plots (using PyPlot) from an Xarray dataset (Osdag – FOSSEE Internship)
 
 ## Project Overview
 This repository contains the implementation and visualization of **Shear Force Diagrams (SFD)** and  
