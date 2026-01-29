@@ -39,7 +39,7 @@ the results in both **2D** and **3D (MIDAS-style)** formats using Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/fossee-osdag-sfd-bmd.git
+   git clone https://github.com/ShaswatSrivastava/fossee-osdag-sfd-bmd.git
 
 
 2. Install required libraries:
@@ -50,5 +50,3 @@ the results in both **2D** and **3D (MIDAS-style)** formats using Python.
     python task1_sfd_bmd.py
     python task2_3d_sfd_bmd.py
 
-   
-   git clone https://github.com/YOUR_USERNAME/fossee-osdag-sfd-bmd.git
