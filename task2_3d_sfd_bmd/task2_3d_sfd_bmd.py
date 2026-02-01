@@ -11,7 +11,7 @@ import plotly.graph_objects as go
 # -------------------------------
 # Base directory
 # -------------------------------
-BASE_DIR = r"C:\Users\Dell\Desktop\FOSSEE_TASK\task2_3d_sfd_bmd"
+BASE_DIR =os.path.dirname(os.path.abspath(__file__))
 
 # -------------------------------
 # Helper function to load Python dict from .py file
